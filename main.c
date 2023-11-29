@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS //for use scanf in Microsoft without no warnings
 #include <stdio.h>
 #define ROWS 3
 #define COLS 3
